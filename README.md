@@ -1,5 +1,5 @@
 # estudos-maven
-Estudo sobre gerenciamento de dependências em Java utilizando Maven disponibilizado pelo curso da Alura.
+Estudo sobre gerenciamento de dependências em Java utilizando Maven disponibilizado pelo curso do Alura.
 
 ## Sobre o Maven 
 ### Repositório oculto do Maven
