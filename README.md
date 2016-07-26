@@ -42,3 +42,5 @@ Comando: `mvn -DskipTests=true package`
 Comando: `mvn package`
 ### Executar comando offline
 Comando: `mvn -o [comand]`
+### Obter últimas versões das dependências presentes no `pom.xml`
+Comando: `mvn versions:use-latest-versions`
