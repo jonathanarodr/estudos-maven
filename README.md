@@ -42,8 +42,11 @@ Comando: `mvn -DskipTests=true package`
 Comando: `mvn package`
 ### Executar comando offline
 Comando: `mvn -o [comand]`
+### Instala repositório local
+Comando: `mvn install` - utilizado para instalar dependência de outros projetos locais no repositório do Maven
 ### Obter últimas versões das dependências presentes no Maven
 * Comando: `mvn versions:display-dependency-updates` - verifica novas versões de dependências
 * Comando: `mvn versions:use-latest-versions` - efetua download automático de novas versões (**não recomendado**)
 
 ###
+
