@@ -7,7 +7,6 @@ Para utilização do Maven em sistemas operacionais **Windows** primeiramente de
 Após finalizar o donwload devemos configurar as variáveis de ambiente de nossa máquina para que seja possível executar comandos `mvn`.
 
 ## Sobre o Maven
-### Repositório oculto do Maven
 * Repositório de plugins do Maven esta disponível atráves do link https://mvnrepository.com/.
 * Todo pacote importado pelo Maven é direcionado para a pasta `.m2/repository` presente no diretório do usuário ativo.
 * Toda configuração do Maven encontra-se presente no arquivo `pom.xml`, permitindo a adição quanto remoção de dependências (`<dependency></dependency>`), configuração de repositórios `<repositories></repositories>`, versionamento (`<version></version>`) e url (`<url></url>`) do projeto.
