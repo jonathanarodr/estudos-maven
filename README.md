@@ -30,9 +30,10 @@ Comando: `mvn verify`
 ### Testando projeto
 Comando: `mvn test`
 ### Gerar relatório de teste
-Comando: `mvn surefire-reports:reports` - relatório para simples conferência do build
-Comando: `mvn pmd:pdm` - relatório que detecta possíveis margens de bug
-Comando: `mvn pmd:check` - verifica se existe algum suposto bug e não permite dar build até sua correção
+* Comando: `mvn surefire-reports:reports` - relatório para simples conferência do build
+* Comando: `mvn pmd:pdm` - relatório que detecta possíveis margens de bug
+* Comando: `mvn pmd:check` - verifica se existe algum suposto bug e não permite dar build até sua correção
+
 ### Limpar execução de teste
 Comando: `mvn clean`
 ### Ignorar execução de teste
