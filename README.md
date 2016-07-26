@@ -8,7 +8,7 @@ Estudo sobre gerenciamento de dependências em Java utilizando Maven disponibili
 
 ## Comandos Maven
 ### Criando novo projeto
-Comando: `mvn archetype:generate -DartifactId=[projectname] -DgroupId=[packagedefault] -DinteractiveMode=[projectdefault (true/false)] -DarchetypeArtfactId=[## maventemplate ##]`
+Comando: `mvn archetype:generate -DartifactId=[projectname] -DgroupId=[packagedefault] -DinteractiveMode=[projectconfig (true/false)] -DarchetypeArtfactId=[maventemplate]`
 ### Compilando projeto
 Comando: `mvn compile`
 ### Testando projeto
