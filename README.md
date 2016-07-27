@@ -1,4 +1,4 @@
-# estudos-maven
+# Curso - Maven: Build do zero a web
 Estudo sobre gerenciamento de dependências em Java utilizando Maven disponibilizado pelo curso do Alura.
 
 ## Configuração do Maven
