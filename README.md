@@ -6,7 +6,7 @@ Estudo sobre gerenciamento de dependências em Java utilizando Maven disponibili
 Para utilização do Maven em sistemas operacionais **Windows** primeiramente devemos fazer o <a href="https://maven.apache.org/download.cgi">download</a> do arquivo **Binary zip archive**.
 Após finalizar o donwload devemos configurar as variáveis de ambiente de nossa máquina para que seja possível executar comandos `mvn`:
 * `JAVA_HOME`: configure a variável de ambiente do Java.
-* `MVN_HOME`: configure a variável de ambiente do Maven adicionando seu caminho, após adicionar sua variável configure a variável `Path` adicionando **`;%MVN_HOME\bin%`**.
+* `MVN_HOME`: configure a variável de ambiente do Maven adicionando seu caminho, após adicionar sua variável configure a variável `Path` adicionando **`;%MVN_HOME%\bin`**.
 
 ## Sobre o Maven
 * Repositório de plugins do Maven esta disponível atráves do link https://mvnrepository.com/.
